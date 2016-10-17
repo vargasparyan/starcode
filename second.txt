@@ -1,0 +1,5 @@
+192.186.0.1|firefox mozilla|MS Windows
+192.186.0.2|google chrome|MS Windows
+192.186.0.3|Opera|MS Windows
+192.186.0.4|Safari|Mac OS
+192.186.0.5|Chromium|IOS
